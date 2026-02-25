@@ -1,6 +1,6 @@
 # Zuko Image Gallery
 
-A small practice website that displays a clean, simple gallery of Zuko images.  
+A small practice website that displays a clean and simple gallery of Zuko images.  
 This project was created to practice HTML, CSS, and organizing files for a basic website.
 
 ## Project Structure
@@ -9,7 +9,7 @@ This project was created to practice HTML, CSS, and organizing files for a basic
 - **images/** – folder containing all Zuko photos  
 
 ## Features
-- Two rows of four images  
+- Two rows of five images  
 - Flexbox layout for spacing  
 - Consistent image sizing  
 
