@@ -80,3 +80,10 @@ img {
   text-align: center;
   margin-top: 6px;     /* gentle spacing */
 }
+.zuko-img {
+  width: 100%;
+  max-width: 240px;
+  height: auto;
+  display: block;
+  margin: 8px auto;
+}
