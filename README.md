@@ -9,7 +9,7 @@ This project was created to practice HTML, CSS, and organizing files for a basic
 - **images/** – folder containing all Zuko photos  
 
 ## Features
-- Two rows of five images  
+- Two rows of six images  
 - Flexbox layout for spacing  
 - Consistent image sizing  
 
