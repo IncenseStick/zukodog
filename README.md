@@ -1,17 +1,21 @@
-# Zuko Image Gallery
+Zuko Image Gallery
+A simple practice website that displays an organized gallery of Zuko photos.
+Built to practice basic HTML, CSS, and file organization.
 
-A small practice website that displays a clean and simple gallery of Zuko images.  
-This project was created to practice HTML, CSS, and organizing files for a basic website.
+Project Structure
+index.html — main webpage
 
-## Project Structure
-- **index.html** – main webpage  
-- **css/style.css** – styles for layout and images  
-- **images/** – folder containing all Zuko photos  
+css/style.css — layout and image styling
 
-## Features
-- Two rows of six images  
-- Flexbox layout for spacing  
-- Consistent image sizing  
+images/ — folder containing all Zuko photos
 
-## How to View
-Open `index.html` in any browser.
+Features
+Two rows of six images
+
+Flexbox-based layout for spacing
+
+Consistent image sizing
+
+View the Site
+Open index.html in any browser, or visit the live page:
+https://incensestick.github.io/zukodog/
