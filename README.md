@@ -1,6 +1,6 @@
 # Zuko Image Gallery
 
-A simple practice website that displays a clean, organized gallery of Zuko photos.
+A simple practice website that displays an organized gallery of Zuko photos.
 Built to practice basic HTML, CSS, and file organization.
 
 ## Project Structure
